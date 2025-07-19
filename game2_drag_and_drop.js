@@ -15,15 +15,15 @@ const dragAndDropPuzzlesData = [
 
 
 const dragAndDropPuzzlesData2 = [
-    { correctWord: "Go", image: "./Pictures/іти.jpg", draggableWord: "Go" },
-    { correctWord: "Eat", image: "./Pictures/їсти.jpg", draggableWord: "Eat" },
-    { correctWord: "Drink", image: "./Pictures/пити.jpg", draggableWord: "Drink" },
-    { correctWord: "Sleep", image: "./Pictures/спати.jpg", draggableWord: "Sleep" },
-    { correctWord: "Play", image: "./Pictures/грати.jpg", draggableWord: "Play" },
-    { correctWord: "Read", image: "./Pictures/читати.jpg", draggableWord: "Read" },
-    { correctWord: "Write", image: "./Pictures/писати.jpg", draggableWord: "Write" },
-    { correctWord: "Like", image: "./Pictures/подобатися.jpg", draggableWord: "Like" },
-    { correctWord: "Go", image: "./Pictures/їхати.jpg", draggableWord: "Go" },
+    { correctWord: "Mm", image: "./Pictures/Mm.jpg", draggableWord: "Moon" },
+    { correctWord: "Nn", image: "./Pictures/Nn.jpg", draggableWord: "Nose" },
+    { correctWord: "Oo", image: "./Pictures/Oo.jpg", draggableWord: "Ocean" },
+    { correctWord: "Pp", image: "./Pictures/Pp.jpg", draggableWord: "Pig" },
+    { correctWord: "Qq", image: "./Pictures/Qq.jpg", draggableWord: "Queen" },
+    { correctWord: "Rr", image: "./Pictures/Rr.jpg", draggableWord: "Rabbit" },
+    { correctWord: "Jj", image: "./Pictures/Jj.jpg", draggableWord: "Jam" },
+    { correctWord: "Kk", image: "./Pictures/Kk.jpg", draggableWord: "King" },
+    { correctWord: "Ll", image: "./Pictures/Ll.jpg", draggableWord: "Lion" },
 ];
 
 
