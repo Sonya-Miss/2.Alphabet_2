@@ -15,15 +15,15 @@ const dragAndDropPuzzlesData = [
 
 
 const dragAndDropPuzzlesData2 = [
-    { correctWord: "Mm", image: "./Pictures/Mm.jpg", draggableWord: "Moon" },
-    { correctWord: "Nn", image: "./Pictures/Nn.jpg", draggableWord: "Nose" },
-    { correctWord: "Oo", image: "./Pictures/Oo.jpg", draggableWord: "Ocean" },
-    { correctWord: "Pp", image: "./Pictures/Pp.jpg", draggableWord: "Pig" },
-    { correctWord: "Qq", image: "./Pictures/Qq.jpg", draggableWord: "Queen" },
-    { correctWord: "Rr", image: "./Pictures/Rr.jpg", draggableWord: "Rabbit" },
-    { correctWord: "Jj", image: "./Pictures/Jj.jpg", draggableWord: "Jam" },
-    { correctWord: "Kk", image: "./Pictures/Kk.jpg", draggableWord: "King" },
-    { correctWord: "Ll", image: "./Pictures/Ll.jpg", draggableWord: "Lion" },
+    { correctWord: "Moon", image: "./Pictures/Mm.jpg", draggableWord: "Moon" },
+    { correctWord: "Nose", image: "./Pictures/Nn.jpg", draggableWord: "Nose" },
+    { correctWord: "Ocean", image: "./Pictures/Oo.jpg", draggableWord: "Ocean" },
+    { correctWord: "Pig", image: "./Pictures/Pp.jpg", draggableWord: "Pig" },
+    { correctWord: "Queen", image: "./Pictures/Qq.jpg", draggableWord: "Queen" },
+    { correctWord: "Rabbit", image: "./Pictures/Rr.jpg", draggableWord: "Rabbit" },
+    { correctWord: "Jam", image: "./Pictures/Jj.jpg", draggableWord: "Jam" },
+    { correctWord: "King", image: "./Pictures/Kk.jpg", draggableWord: "King" },
+    { correctWord: "Lion", image: "./Pictures/Ll.jpg", draggableWord: "Lion" },
 ];
 
 
